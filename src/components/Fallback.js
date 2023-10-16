@@ -3,7 +3,7 @@ import React from "react";
 
 const Fallback = () => {
 	return (
-		<View style={{ alignItems: "center" }}>
+		<View style={{ alignItems: "center"}}>
 			<Image
 				source={require("../../assets/to-do-list.png")}
 				style={{ height: 300, width: 300 }}
